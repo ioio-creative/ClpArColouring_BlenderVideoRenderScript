@@ -1,12 +1,18 @@
 # Blender file
 *.blend
 
+# Production computer stuff
 Audio/
-
 ImageSequence/
-
 point_cache/
-
 Texture/
-
 timer.txt
+
+# Development computer stuff
+clp_render/
+rotation_tutorial/
+render_animation.py
+run_blender_cmd_20170905.bat
+run_blender_cmd_20170915.bat
+world.3x5400x2700_1.jpg
+world.3x5400x2700_2.jpg
