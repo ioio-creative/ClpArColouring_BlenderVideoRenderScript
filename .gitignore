@@ -1,0 +1,12 @@
+# Blender file
+*.blend
+
+Audio/
+
+ImageSequence/
+
+point_cache/
+
+Texture/
+
+timer.txt
